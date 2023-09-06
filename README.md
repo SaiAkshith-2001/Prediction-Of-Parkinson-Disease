@@ -14,6 +14,7 @@ Test Accuracy: 0.97.
 Requirements are:
 pandas,
 numpy ,
-scikit-learn==0.23.1,
+scikit-learn,
 flask,
-matplotlib
+matplotlib and 
+Random Forest Classifier.
