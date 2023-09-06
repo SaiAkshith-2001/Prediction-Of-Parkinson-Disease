@@ -6,6 +6,13 @@ By using ML Algorithm "Random Forest Alogrithm". It is a popular machine learnin
 
 The greater number of trees in the forest leads to higher accuracy and prevents the problem of overfitting.
 
+Prediction of Parkinson's disease
+
+Algorithm / Model Used: "Random Forest Classifier" .
+
+Train Accuracy: 1.00
+Test Accuracy: 0.97.
+
 
 Requirements:
 pandas,
